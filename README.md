@@ -12,6 +12,7 @@
 <!-- Docs badge not working ... if you have time to help investigate, please do.
 [![Inline docs](http://inch-ci.org/github/dwyl/hits.svg?style=flat-square)](http://inch-ci.org/github/dwyl/hits)
 -->
+[![Inline docs](http://inch-ci.org/github/dwyl/hits.svg?style=flat-square)](http://inch-ci.org/github/dwyl/hits)
 
 </div>
 
