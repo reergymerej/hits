@@ -10,10 +10,10 @@ script:
   # - mix cover
 after_success:
   - mix deps.get --only docs
-  - MIX_ENV=docs mix inch
+  - MIX_ENV=docs mix inch.report
 after_failure:
   - mix deps.get --only docs
-  - MIX_ENV=docs mix inch
+  - MIX_ENV=docs mix inch.report
 cache:
   directories:
     - _build
